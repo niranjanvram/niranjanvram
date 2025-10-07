@@ -66,9 +66,9 @@ I enjoy working close to the system — understanding how things run under the h
 - 🌐 [Portfolio Website](https://niranjanvram.github.io/works/portfolio-nvr) — My creative and technical showcase.
 
 ## 📊 GitHub Stats
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanvram&langs_count=8&layout=compact&theme=tokyonight)
 ![Niranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niranjanvram&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niranjanvram&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanvram&langs_count=8&layout=normal&theme=tokyonight)
 
 ## 📫 Let's Connect
 - **LinkedIn:** [Niranjan V Ram](https://linkedin.com/in/niranjanvram)
